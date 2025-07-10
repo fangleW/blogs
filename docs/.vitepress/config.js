@@ -2,6 +2,7 @@
  * @type {import('vitepress').UserConfig}
  */
 const config = {
+  base: '/blogs/',
   title: '个人笔记',
   description: 'Fangle 的个人笔记库',
   themeConfig: {
