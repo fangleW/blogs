@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Fangle's blogs"
-  text: "一个记录学习的文档库"
+  text: "一个记录自己的文档库"
   tagline: 专注前端开发，记录学习过程中的笔记，方便查阅
   actions:
     - theme: brand
